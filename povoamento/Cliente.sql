@@ -1,0 +1,16 @@
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('01234567890', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('10234567891', 1);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('11234567892', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('12234567893', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('13234567894', 1);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('14234567895', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('15234567896', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('16234567897', 1);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('17234567898', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('18234567899', 1);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('19234567900', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('20234567901', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('21234567902', 1);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('22234567903', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('23234567904', 0);
+INSERT INTO Cliente (CPF, fidelidade) VALUES ('24234567905', 1);
