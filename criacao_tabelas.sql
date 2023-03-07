@@ -72,7 +72,7 @@ create table Ingresso(
     codigo_ingresso varchar(11),
     tipo_ingresso varchar(4),
     CHECK (tipo_ingresso = 'M' or tipo_ingresso ='I'),
-    valor varchar(4),
+    valor integer,
     CONSTRAINT PK_INGRESSO PRIMARY KEY (codigo_ingresso,tipo_ingresso)
 );
 
